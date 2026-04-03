@@ -1,0 +1,10 @@
+/*.html
+  Cache-Control: no-cache, no-store, must-revalidate
+  Pragma: no-cache
+
+/
+  Cache-Control: no-cache, no-store, must-revalidate
+  Pragma: no-cache
+
+/favicon.svg
+  Cache-Control: public, max-age=86400
